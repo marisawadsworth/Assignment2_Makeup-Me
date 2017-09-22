@@ -1,0 +1,183 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height:1.5;
+    padding: 0;
+    background-color: grey;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+header{
+    background: pink;
+    padding-top: 30px;
+    min-height: 70PX;
+    border-bottom: lightgrey;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    min-height: uppercase;
+    font-size: 20px
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+}
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header #navagation{
+    float: left;
+}
+header #navagation h1{
+    margin: 0;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+header .highlight, header .current a{
+    color:e8491d;
+    font-weight: bold;
+}
+header a:hover{
+    color:yellow;
+    font-weight:bold;
+}
+
+/* Showcase */
+#showcase{
+    min-height: 631px;
+    background:url("../img/Background/Makeup gif background.gif") no-repeat 0;
+    background-size: 100%;
+    text-align: center;
+    color: pink;
+}
+#showcase h1{
+    margin-top:100px;
+    font-size:55px;
+    margin-bottom:10px
+}
+#showcase p{
+    font-size:20px;
+}
+
+/*About Us */
+#about{
+    color: white;
+    background: pink;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#about h1{
+    font-size: 30px;
+    text-align: center;
+}
+#about p{
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Slideshow */
+@keyframes Slideshow{
+    0% {
+        left: 0;
+    }
+    20%{
+        left: 0;
+    }
+    25%{
+        left: -25%;
+    }
+    45%{
+        left: -25%;
+    }
+    50%{
+        left: -50%;
+    }
+    70%{
+        left: -50%;
+    }
+    75%{
+        left: -25%;
+    }
+    95%{
+        left: -25%;
+    }
+    100%{
+        left: -0%;
+    }
+}
+#slideshow{
+    overflow: hidden;
+}
+#slideshow figure img{
+    width: 15%;
+}
+#slideshow figure{
+    position: relative;
+    width: 200%;
+    margin: 0;
+    left: 0;
+    font-size: 0;
+    animation: 10s Slideshow infinite;
+}
+#portfolio{
+    color: white;
+    background: pink;
+    text-align: center;
+}
+#portfolio h1{
+    font-size: 30px;
+}
+#portfolio p{
+    font-size: 20px;
+}
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+#team{
+    color: white;
+    background: grey;
+    text-align: center;
+}
+.team-member{
+    color: white;
+    background: grey;
+    text-align: center;
+}
+#team h1{
+    font-size: 30px;
+    text-align: center;
+}
+#team p{
+    font-size: 20px;
+    text-align: center;
+}
+#contact{
+    color: white;
+    background: pink;
+    text-align: center;
+}
+#contact h1{
+    font-size: 30px;
+}
+#contact p{
+    font-size: 20px;
+}
+p.solid{
+    background-color: white;
+    color: black;
+    border-style: solid; 
+    text-align: left;
+    font-size: 20px;
+    padding: 20px;
+}
