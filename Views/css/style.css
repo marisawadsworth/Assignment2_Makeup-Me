@@ -29,7 +29,6 @@ header ul{
     padding: 0;
 }
 header li{
-    float: left;
     display: inline;
     padding: 0 20px 0 20px;
 }
@@ -69,7 +68,7 @@ header a:hover{
     font-size:20px;
 }
 
-/*About Us */
+/* About Us */
 #about{
     color: white;
     background: pink;
