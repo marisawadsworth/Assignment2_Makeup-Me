@@ -11,8 +11,6 @@ C:\Users\10006663\Desktop\assesment2\bin\Debug\netcoreapp1.1\assesment2.runtimec
 C:\Users\10006663\Desktop\assesment2\bin\Debug\netcoreapp1.1\assesment2.runtimeconfig.dev.json
 C:\Users\10006663\Desktop\assesment2\bin\Debug\netcoreapp1.1\assesment2.dll
 C:\Users\10006663\Desktop\assesment2\bin\Debug\netcoreapp1.1\assesment2.pdb
-C:\Users\10006663\Desktop\assesment2\obj\Debug\netcoreapp1.1\assesment2.csproj.CoreCompileInputs.cache
-C:\Users\10006663\Desktop\assesment2\obj\Debug\netcoreapp1.1\assesment2.AssemblyInfoInputs.cache
 C:\Users\10006663\Desktop\assesment2\obj\Debug\netcoreapp1.1\assesment2.AssemblyInfo.cs
 C:\Users\10006663\Desktop\assesment2\obj\Debug\netcoreapp1.1\assesment2.dll
 C:\Users\10006663\Desktop\assesment2\obj\Debug\netcoreapp1.1\assesment2.pdb
