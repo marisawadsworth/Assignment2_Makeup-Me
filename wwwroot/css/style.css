@@ -54,7 +54,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 631px;
-    background:url("../img/Background/Makeup gif background.gif") no-repeat 0;
+    background:url("/img/Background/Makeup gif background.gif") no-repeat 0;
     background-size: 100%;
     text-align: center;
     color: pink;
