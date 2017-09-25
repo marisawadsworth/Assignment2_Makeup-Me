@@ -1,0 +1,8 @@
+/Users/marisawadsworth/Desktop/assesment2/bin/Debug/netcoreapp1.1/assesment2.deps.json
+/Users/marisawadsworth/Desktop/assesment2/bin/Debug/netcoreapp1.1/assesment2.runtimeconfig.json
+/Users/marisawadsworth/Desktop/assesment2/bin/Debug/netcoreapp1.1/assesment2.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/assesment2/bin/Debug/netcoreapp1.1/assesment2.dll
+/Users/marisawadsworth/Desktop/assesment2/bin/Debug/netcoreapp1.1/assesment2.pdb
+/Users/marisawadsworth/Desktop/assesment2/obj/Debug/netcoreapp1.1/assesment2.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/assesment2/obj/Debug/netcoreapp1.1/assesment2.dll
+/Users/marisawadsworth/Desktop/assesment2/obj/Debug/netcoreapp1.1/assesment2.pdb
